@@ -1,1 +1,2 @@
-# NEXVORA
+# nexvora
+aplikasi simpel multi fungsi 
